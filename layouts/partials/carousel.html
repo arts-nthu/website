@@ -4,7 +4,7 @@
         {{ range $index, $slide := .items }}
         
         <div class="carousel-item {{ if eq $index 0 }} active {{ end }}" style="height: 100%; width: 100%; color: white">
-            <div style="background-image: url('{{ .image }}'); background-size: cover; background-position: 50% 50%;" class="w-100 h-100" alt="..." >
+            <div style="background-image: url('{{ .image }}');" class="w-100 carousel-img" alt="..." >
             <div class="carousel-caption d-none d-md-block">
                 
             </div>
