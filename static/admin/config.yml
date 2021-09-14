@@ -140,8 +140,9 @@ collections:
         required: false 
       - label: "表演者"
         name: "performer"
-        widget: "list"
-        allow_add: true
+        widget: "string"
+        required: false
+        hint: "表演者之間用空白隔開"
       - label: "地點"
         name: "location"
         widget: "string"
