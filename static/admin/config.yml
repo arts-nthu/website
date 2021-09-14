@@ -127,7 +127,6 @@ collections:
       - label: "展演類型"
         name: "categories"
         widget: "select"
-        multiple: true
         options:
           - { label: "視覺藝術", value: "visual_art" }
           - { label: "表演藝術", value: "performing_art" }
@@ -141,8 +140,8 @@ collections:
         required: false 
       - label: "表演者"
         name: "performer"
-        widget: "string"
-        required: false
+        widget: "list"
+        allow_add: true
       - label: "地點"
         name: "location"
         widget: "string"
