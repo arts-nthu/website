@@ -1,5 +1,5 @@
 ---
-title: 生命如歌Life Story 影展
+title: 生命如歌Life Storyå影展
 draft: false
 cover: https://i.imgur.com/v0XBCTY.jpg
 categories:
