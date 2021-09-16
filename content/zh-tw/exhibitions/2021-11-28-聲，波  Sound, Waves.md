@@ -3,7 +3,7 @@ title: 聲，波  Sound, Waves
 draft: false
 cover: https://i.imgur.com/S6ScyJg.jpg
 categories:
-  - music
+  - performing_art
 host: 清華大學藝術中心
 performer: 清華A.I.樂團
 location: 新臺灣當代文化實驗場C-LAB共享吧
