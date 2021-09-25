@@ -46,7 +46,7 @@
                                 </div>
                                 <div class="li">
                                     <div class="_left">{{ .Language.Params.ed_performer }}</div>
-                                    <div class="_right">{{ .Page.Params.performer }}</div>
+                                    <div class="_right">{{with .Page.Params.performer }}{{ . | safeHTML }}{{end}}</div>
                                 </div>
                                 <div class="li">
                                     <div class="_left">{{ .Language.Params.ed_time }}</div>
