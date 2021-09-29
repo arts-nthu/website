@@ -58,7 +58,7 @@
                                 </div>
                                 <div class="li">
                                     <div class="_left">{{ .Language.Params.ed_ticket_info }}</div>
-                                    <div class="_right">{{ .Page.Params.ticket_info }}</div>
+                                    <div class="_right">{{with .Page.Params.ticket_info }}{{ . | safeHTML }}{{end}}</div>
                                 </div>
                                 {{ if .Page.Params.registration_link }}
                                 <div class="li">
