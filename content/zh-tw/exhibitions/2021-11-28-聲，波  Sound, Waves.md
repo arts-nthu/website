@@ -1,7 +1,7 @@
 ---
 title: 聲，波  Sound, Waves
 draft: false
-cover: https://i.imgur.com/S6ScyJg.jpg
+cover: https://i.imgur.com/PrJVPr4.jpg
 categories:
   - performing_art
 host: 清華大學藝術中心

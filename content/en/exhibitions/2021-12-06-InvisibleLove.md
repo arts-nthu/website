@@ -2,7 +2,7 @@
 title: Invisible Love
 subtitle: Liao Chi-Yu Solo Exhibition
 draft: false
-cover: https://i.imgur.com/w8bWUqG.jpg
+cover: https://i.imgur.com/kByUjgv.jpg
 categories:
   - visual_art
 host: 清華大學藝術中心

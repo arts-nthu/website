@@ -2,7 +2,7 @@
 title: About Self
 subtitle: Yi Chen Hsieh個展
 draft: false
-cover: https://i.imgur.com/CThLIZ1.jpg
+cover: https://i.imgur.com/TUoUAGx.jpg
 categories:
   - visual_art
 host: 清華大學藝術中心
