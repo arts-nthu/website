@@ -183,6 +183,7 @@ ed_detail = "Detail"
       [navbar.navbar_content.about_us]
       title = "About Us"
       history = "History"
+      concert_hall = "Concert Hall"
       activity = "Activity"
       faculty = "Faculty"
       exhibition_venue = "Exhibition<br>Venue"

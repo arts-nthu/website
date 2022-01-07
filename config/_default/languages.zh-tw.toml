@@ -4,6 +4,7 @@ languageName = "中文"
 # Menu
 about = "About Us"
 history = "History"
+concert_hall = "Concert Hall"
 activity = "Activity"
 faculty = "Faculty"
 place = "Exhibition Venue"
@@ -176,7 +177,7 @@ intro_2 = "清華樂集並擁有 一支管弦樂團--清華愛樂管弦樂團，
 intro_3 = "媒體報導亦曾用 “左手拉琴，右手算微積分”來形容這個左右腦兼用的音 樂團體。清華樂集對於支持藝術多元的藝術中心來說，更是藝術中心身為校園 內藝術核心努力開發的一塊音樂園地。"
 
 [navbar]
-website_title = "國立清華大學清華學院藝術中心"
+website_title = "國立清華大學藝術文化總中心"
 
   [navbar.navbar_content]
   publication = "出版典藏"
@@ -186,6 +187,7 @@ website_title = "國立清華大學清華學院藝術中心"
     [navbar.navbar_content.about_us]
     title = "關於我們"
     history = "中心簡史"
+    concert_hall = "君山音樂廳"
     activity = "活動概述"
     faculty = "組織人員"
     exhibition_venue = "展演場地"

@@ -12,6 +12,13 @@ parent = "about"
 weight = 20
 
 [[main]]
+identifier = "concert_hall"
+name = "君山音樂廳"
+url = "https://flutistlin.wixsite.com/my-site-1"
+parent = "about"
+weight = 21
+
+[[main]]
 identifier = "activity"
 name = "活動概述"
 url = "/about/activity/"
