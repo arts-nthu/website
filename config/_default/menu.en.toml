@@ -16,7 +16,14 @@ identifier = "concert_hall"
 name = "Concert Hall"
 url = "https://flutistlin.wixsite.com/my-site-1"
 parent = "about"
-weight = 21
+weight = 25
+
+[[main]]
+identifier = "museum"
+name = "Museum"
+url = "https://museum.site.nthu.edu.tw/"
+parent = "about"
+weight = 27
 
 [[main]]
 identifier = "activity"
