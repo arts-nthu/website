@@ -12,53 +12,60 @@ parent = "about"
 weight = 20
 
 [[main]]
+identifier = "art_museum"
+name = "宏亮美術館"
+url = "https://cac.site.nthu.edu.tw/p/406-1549-221047,r11.php"
+parent = "about"
+weight = 25
+
+[[main]]
 identifier = "concert_hall"
 name = "君山音樂廳"
 url = "https://flutistlin.wixsite.com/my-site-1"
 parent = "about"
-weight = 25
+weight = 30
 
 [[main]]
 identifier = "museum"
 name = "文物館"
 url = "https://museum.site.nthu.edu.tw/"
 parent = "about"
-weight = 27
+weight = 40
 
 [[main]]
 identifier = "activity"
 name = "活動概述"
 url = "/about/activity/"
 parent = "about"
-weight = 30
+weight = 50
 
 [[main]]
 identifier = "faculty"
 name = "組織人員"
 url = "/about/faculty/"
 parent = "about"
-weight = 40
+weight = 60
 
 [[main]]
 identifier = "place"
 name = "展演場地"
 url = "/about/place/zyxel/"
 parent = "about"
-weight = 50
+weight = 70
 
 [[main]]
 identifier = "collect_music"
 name = "清華樂集"
 url = "/about/collect/music/"
 parent = "about"
-weight = 60
+weight = 80
 
 [[main]]
 identifier = "collect_art"
 name = "清華藝集"
 url = "/about/collect/art/"
 parent = "about"
-weight = 70
+weight = 90
 
 [[main]]
 identifier = "programs"
