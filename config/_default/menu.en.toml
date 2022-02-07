@@ -12,53 +12,60 @@ parent = "about"
 weight = 20
 
 [[main]]
+identifier = "art_museum"
+name = "Art Museum"
+url = "https://cac.site.nthu.edu.tw/p/406-1549-221047,r11.php"
+parent = "about"
+weight = 25
+
+[[main]]
 identifier = "concert_hall"
 name = "Concert Hall"
 url = "https://flutistlin.wixsite.com/my-site-1"
 parent = "about"
-weight = 25
+weight = 30
 
 [[main]]
 identifier = "museum"
 name = "Museum"
 url = "https://museum.site.nthu.edu.tw/"
 parent = "about"
-weight = 27
+weight = 40
 
 [[main]]
 identifier = "activity"
 name = "Activity"
 url = "/en/about/activity/"
 parent = "about"
-weight = 30
+weight = 50
 
 [[main]]
 identifier = "faculty"
 name = "Faculty"
 url = "/en/about/faculty/"
 parent = "about"
-weight = 40
+weight = 60
 
 [[main]]
 identifier = "place"
 name = "Exhibition Venue"
 url = "/en/about/place"
 parent = "about"
-weight = 50
+weight = 70
 
 [[main]]
 identifier = "collect_music"
 name = "NTHU Chamber Ensemble"
 url = "/en/collect/music/"
 parent = "about"
-weight = 60
+weight = 80
 
 [[main]]
 identifier = "collect_art"
 name = "NTHU Art Salon"
 url = "/en/collect/art/"
 parent = "about"
-weight = 70
+weight = 90
 
 
 
