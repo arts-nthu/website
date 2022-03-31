@@ -1,10 +1,10 @@
-<div id="index-carousel" class="carousel slide" data-ride="carousel" style="height: 500px">
+<div id="index-carousel" class="carousel fade" data-ride="carousel" style="height: 500px">
     <div class="carousel-inner" style="height: 100%;">
 
         {{ range $index, $slide := .items }}
         
         <div class="carousel-item {{ if eq $index 0 }} active {{ end }}" style="height: 100%; width: 100%; color: white">
-            <img src="{{ .image }}" class="w-100" alt="..." >
+            <div style="background-image: url('{{ .image }}');" class="w-100 carousel-img" alt="..." >
             <div class="carousel-caption d-none d-md-block">
                 
             </div>
